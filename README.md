@@ -1,4 +1,4 @@
-# Spring_Boot_angular_WT
+# Spring_Boot_angular_JWT
 
 
 In this tutorial, I will show you how to build a full stack Angular 10 + Spring Boot JWT Authentication with Employee Management and logger example. The back-end server uses Spring Boot with Spring Security for JWT Authentication & Authorization, Spring Data JPA for interacting with database and logger. The front-end will be built using Angular 10 with HttpInterceptor & Form validation.
