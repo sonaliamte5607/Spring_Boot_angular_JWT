@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.assignment.springjwt.models.Manager"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="net.guides.springboot2.springboot2jpacrudexample.model.Employee"/>
+<fullyQualifiedTypeName name="com.assignment.springjwt.repository.EmployeeRepository"/>
+<fullyQualifiedTypeName name="com.assignment.springjwt.models.Employee"/>
+<fullyQualifiedTypeName name="com.assignment.springjwt.exception.ResourceNotFoundException"/>
+<fullyQualifiedTypeName name="org.springframework.security.web.access.channel.ChannelProcessingFilter"/>
+<fullyQualifiedTypeName name="com.assignment.springjwt.security.jwt.CorsFilter"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.Api"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.ApiOperation"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+</qualifiedTypeNameHistroy>

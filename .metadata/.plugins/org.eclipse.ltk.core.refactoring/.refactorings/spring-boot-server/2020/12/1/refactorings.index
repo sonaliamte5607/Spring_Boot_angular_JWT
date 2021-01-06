@@ -1,0 +1,16 @@
+1609313599521	Rename package 'com.bezkoder.springjwt'
+1609313622534	Rename package 'com.bezkoder.springjwt.controllers'
+1609313691427	Rename package 'com.bezkoder.springjwt.models'
+1609313743615	Rename package 'com.bezkoder.springjwt.payload.request'
+1609313761914	Rename package 'com.bezkoder.springjwt.payload.response'
+1609313777119	Rename package 'com.bezkoder.springjwt.repository'
+1609313794825	Rename package 'com.bezkoder.springjwt.security'
+1609313811117	Rename package 'com.bezkoder.springjwt.security.jwt'
+1609313826918	Rename package 'com.bezkoder.springjwt.security.services'
+1609314144824	Rename type 'User'
+1609315313799	Rename type 'UserRepository'
+1609315365800	Rename type 'UserDetailsImpl'
+1609315381375	Rename type 'UserDetailsServiceImpl'
+1609405626739	Delete element
+1609405638177	Delete element
+1609405670205	Delete element

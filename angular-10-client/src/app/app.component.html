@@ -1,0 +1,56 @@
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+  <!-- Links -->
+  <ul class="navbar-nav">
+    
+    <li class="nav-item">
+      <a  class="nav-link" routerLink="home" routerLinkActive="active">Home </a>
+    </li>
+    <li class="nav-item">
+      <a routerLink="add" class="nav-link" routerLinkActive="active">Add Employee</a>
+    </li>
+    <li class="nav-item">
+        <a routerLink="show" class="nav-link" routerLinkActive="active">Employee List</a>
+    </li>
+    
+  </ul>
+  <ul class="navbar-nav ml-auto" *ngIf="!isLoggedIn">
+    <li class="nav-item">
+      <a  class="nav-link" routerLink="register" routerLinkActive="active">Sign Up</a>
+    </li>
+    <li class="nav-item">
+      <a  class="nav-link" routerLink="login" routerLinkActive="active">Login</a>
+    </li>
+  </ul>
+
+  <ul class="navbar-nav ml-auto" *ngIf="isLoggedIn">
+    <li class="nav-item">
+      <a  class="nav-link" routerLink="profile" routerLinkActive="active">{{ username }}</a>
+    </li>
+    <li class="nav-item">
+      <a href class="nav-link" (click)="logout()" routerLinkActive="active">LogOut</a>
+    </li>
+  </ul>
+</nav>
+
+
+<div class="container">
+  <br>
+  <h2 style="text-align: center;">Employee Management</h2>
+  <hr>  
+  <div class="card">
+    <div class="card-body">
+  <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+      <span>Sonali Amte Task Assignment </span>
+  </div>
+</footer>
+
+
+
+
+

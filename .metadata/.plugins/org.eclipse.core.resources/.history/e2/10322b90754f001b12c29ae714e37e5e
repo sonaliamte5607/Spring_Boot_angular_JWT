@@ -1,0 +1,5 @@
+package com.assignment.springjwt.SwaggerConfig;
+
+public class SwaggerConfig {
+
+}
