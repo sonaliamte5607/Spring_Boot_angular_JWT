@@ -18,8 +18,8 @@ Manager can signup new account, login with username & password.
 
 It’s not too difficult to understand. We have 2 endpoints for authentication:
 
-* `api/auth/signup` for User Registration
-* `api/auth/signin` for User Login
+* `api/auth/signup` for Manager Registration
+* `api/auth/signin` for Manager Login
 
 ## Flow for Employee Create,Upadte,Delete
 * `/api/v1/employees` for Get employee
